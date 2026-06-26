@@ -1,0 +1,5 @@
+gh keybind = global:cmd+backslash=toggle_quick_terminal
+
+command = /usr/local/bin/modestmux
+
+theme = dark:0x96f,light:Builtin Tango Light
