@@ -1,4 +1,5 @@
 # Set PATH, MANPATH, etc., for Homebrew.
+# TODO this is macos-specific.
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 alias vi="nvim"

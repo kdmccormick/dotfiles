@@ -24,7 +24,8 @@ expect them to be.
   proceeding.
 * Kyle will often edit this repo by hand or with other agents. Don't assume it
   hasn't changed out from under you. Check the git log.
+* Flag follow-up work with TODO comments as necessary (don't over-use this).
 * Only make macOS-specific changes when necessary. Keep things POSIX friendly
-  when possible. Kyle would like to eventually use much of this for Linux
-  config too.
+  when possible. When impossible, add a TODO comment. Kyle would like to
+  eventually use much of this for Linux config too. 
 * Do not edit AGENTS.md unless Kyle specifically asks you to.
